@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI4LAW//Legal AI Builders - August 2026 Evening//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:builders-aug26-lesson-1-20260803@ai4law.co.il
+SUMMARY:מסלול הבונים (ערב) — מפגש 1
+DTSTART;TZID=Asia/Jerusalem:20260803T200000
+DTEND;TZID=Asia/Jerusalem:20260803T220000
+LOCATION:Zoom (אונליין)
+DESCRIPTION:קורס מסלול הבונים (Legal AI Builders) — מחזור אוגוסט ערב\nמפגש 1 מתוך 6\nהמפגש מוקלט וזמין לצפייה חוזרת.\nקישור הזום יישלח לנרשמים.
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:תזכורת — מסלול הבונים מפגש 1
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-aug26-lesson-2-20260806@ai4law.co.il
+SUMMARY:מסלול הבונים (ערב) — מפגש 2
+DTSTART;TZID=Asia/Jerusalem:20260806T200000
+DTEND;TZID=Asia/Jerusalem:20260806T220000
+LOCATION:Zoom (אונליין)
+DESCRIPTION:קורס מסלול הבונים (Legal AI Builders) — מחזור אוגוסט ערב\nמפגש 2 מתוך 6\nהמפגש מוקלט וזמין לצפייה חוזרת.\nקישור הזום יישלח לנרשמים.
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:תזכורת — מסלול הבונים מפגש 2
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-aug26-lesson-3-20260810@ai4law.co.il
+SUMMARY:מסלול הבונים (ערב) — מפגש 3
+DTSTART;TZID=Asia/Jerusalem:20260810T200000
+DTEND;TZID=Asia/Jerusalem:20260810T220000
+LOCATION:Zoom (אונליין)
+DESCRIPTION:קורס מסלול הבונים (Legal AI Builders) — מחזור אוגוסט ערב\nמפגש 3 מתוך 6\nהמפגש מוקלט וזמין לצפייה חוזרת.\nקישור הזום יישלח לנרשמים.
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:תזכורת — מסלול הבונים מפגש 3
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-aug26-lesson-4-20260813@ai4law.co.il
+SUMMARY:מסלול הבונים (ערב) — מפגש 4
+DTSTART;TZID=Asia/Jerusalem:20260813T200000
+DTEND;TZID=Asia/Jerusalem:20260813T220000
+LOCATION:Zoom (אונליין)
+DESCRIPTION:קורס מסלול הבונים (Legal AI Builders) — מחזור אוגוסט ערב\nמפגש 4 מתוך 6\nהמפגש מוקלט וזמין לצפייה חוזרת.\nקישור הזום יישלח לנרשמים.
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:תזכורת — מסלול הבונים מפגש 4
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-aug26-lesson-5-20260817@ai4law.co.il
+SUMMARY:מסלול הבונים (ערב) — מפגש 5
+DTSTART;TZID=Asia/Jerusalem:20260817T200000
+DTEND;TZID=Asia/Jerusalem:20260817T220000
+LOCATION:Zoom (אונליין)
+DESCRIPTION:קורס מסלול הבונים (Legal AI Builders) — מחזור אוגוסט ערב\nמפגש 5 מתוך 6\nהמפגש מוקלט וזמין לצפייה חוזרת.\nקישור הזום יישלח לנרשמים.
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:תזכורת — מסלול הבונים מפגש 5
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:builders-aug26-lesson-6-20260820@ai4law.co.il
+SUMMARY:מסלול הבונים (ערב) — מפגש 6
+DTSTART;TZID=Asia/Jerusalem:20260820T200000
+DTEND;TZID=Asia/Jerusalem:20260820T220000
+LOCATION:Zoom (אונליין)
+DESCRIPTION:קורס מסלול הבונים (Legal AI Builders) — מחזור אוגוסט ערב\nמפגש 6 מתוך 6 (המפגש האחרון)\nהמפגש מוקלט וזמין לצפייה חוזרת.\nקישור הזום יישלח לנרשמים.
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:תזכורת — מסלול הבונים מפגש 6
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
